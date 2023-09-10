@@ -1,2 +1,2 @@
-# isucon-naledge
+# isucon-knowledge
 ISUCONのナレッジ共有用のリポジトリ
