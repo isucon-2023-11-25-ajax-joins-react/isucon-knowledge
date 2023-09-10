@@ -1,7 +1,7 @@
 ---
 name: 'ISUCON本'
-about: ''
-title: ''
+about: 'ISUCON本のアウトプット、タスク進行、ナレッジ共有のためのissue'
+title: 'ISUCON本'
 labels: ''
 assignees: ''
 
